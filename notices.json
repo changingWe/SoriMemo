@@ -1,8 +1,8 @@
 [
   {
     "id": "notice_01",
-    "title": "서버 점검 안내",
-    "message": "새벽 2시부터 10분간 점검이 있습니다.",
+    "title": "사용해 주셔서 감사합니다",
+    "message": "원격에서 뿌려지는 공지 메시지 테스트",
     "imageUrl": null,
     "linkUrl": "https://example.com/notice/1"
   },
