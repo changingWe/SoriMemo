@@ -1,7 +1,7 @@
 [
   {
     "id": "notice_01",
-    "title": "사용해 주셔서 감사합니다",
+    "title": "소리메모에 오신 것을 환영합니다",
     "message": "원격에서 뿌려지는 공지 메시지 테스트",
     "imageUrl": null,
     "linkUrl": "https://example.com/notice/1"
