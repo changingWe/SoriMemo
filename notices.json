@@ -1,0 +1,16 @@
+[
+  {
+    "id": "notice_01",
+    "title": "서버 점검 안내",
+    "message": "새벽 2시부터 10분간 점검이 있습니다.",
+    "imageUrl": null,
+    "linkUrl": "https://example.com/notice/1"
+  },
+  {
+    "id": "event_img_01",
+    "title": "신규 이벤트 배너",
+    "message": "",
+    "imageUrl": "https://example.com/images/banner_summer_event.png",
+    "linkUrl": "https://example.com/event"
+  }
+]
