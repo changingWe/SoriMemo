@@ -2,15 +2,15 @@
   {
     "id": "notice_01",
     "title": "소리메모에 오신 것을 환영합니다",
-    "message": "원격에서 뿌려지는 공지 메시지 테스트",
+    "message": "기억의 보조장치로 활용하세요.",
     "imageUrl": null,
-    "linkUrl": "https://example.com/notice/1"
+    "linkUrl": "https://www.busan.go.kr"
   },
   {
     "id": "event_img_01",
     "title": "신규 이벤트 배너",
     "message": "",
     "imageUrl": "https://changingwe.github.io/SoriMemo/images/banner_idea.jpg",
-    "linkUrl": "https://example.com/event"
+    "linkUrl": "https://www.busan.go.kr"
   }
 ]
