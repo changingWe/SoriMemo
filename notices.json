@@ -4,15 +4,23 @@
     "title": "소리메모에 오신 것을 환영합니다",
     "message": "기억의 보조장치로 활용하세요.",
     "imageUrl": null,
-    "linkUrl": "https://www.busan.go.kr",
+    "linkUrl": "",
     "displayDurationSeconds": 8
   },
   {
     "id": "event_img_01",
+    "title": "21회 부산불꽃축제",
+    "message": "",
+    "imageUrl": "https://changingwe.github.io/SoriMemo/images/busan_fire.jpg",
+    "linkUrl": "https://busanfireworks.com/",
+    "displayDurationSeconds": 15
+  }
+  {
+    "id": "event_img_02",
     "title": "신규 이벤트 배너",
     "message": "",
     "imageUrl": "https://changingwe.github.io/SoriMemo/images/banner_idea.jpg",
-    "linkUrl": "https://www.busan.go.kr",
-    "displayDurationSeconds": 20
+    "linkUrl": "https://visitbusan.net",
+    "displayDurationSeconds": 8
   }
 ]
