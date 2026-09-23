@@ -5,7 +5,7 @@
     "message": "",
     "imageUrl": "https://changingwe.github.io/SoriMemo/images/busan_fire.jpg",
     "linkUrl": "https://busanfireworks.com/",
-    "displayDurationSeconds": 15
+    "displayDurationSeconds": 12
   },
   {
     "id": "event_img_02",
@@ -13,6 +13,6 @@
     "message": "",
     "imageUrl": "https://changingwe.github.io/SoriMemo/images/visit_busan.png",
     "linkUrl": "https://visitbusan.net",
-    "displayDurationSeconds": 8
+    "displayDurationSeconds": 12
   }
 ]
