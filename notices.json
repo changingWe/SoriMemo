@@ -1,18 +1,51 @@
 [
   {
     "id": "event_img_01",
+    "type": "IMAGE",
     "title": "21회 부산불꽃축제",
     "message": "",
     "imageUrl": "https://changingwe.github.io/SoriMemo/images/busan_fire.jpg",
     "linkUrl": "https://busanfireworks.com/",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2026-11-31T23:59:59",
     "displayDurationSeconds": 12
   },
   {
     "id": "event_img_02",
+    "type": "IMAGE",
     "title": "신규 이벤트 배너",
     "message": "",
     "imageUrl": "https://changingwe.github.io/SoriMemo/images/visit_busan.png",
     "linkUrl": "https://visitbusan.net",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
     "displayDurationSeconds": 12
+  },
+  {
+    "id": "remote_quote_01",
+    "type": "QUOTE",
+    "title": "가장 흐릿한 잉크가 가장 또렷한 기억보다 오래간다.",
+    "message": "중국 속담",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_02",
+    "type": "QUOTE",
+    "title": "뇌는 아이디어를 만드는 곳이지, 보관하는 곳이 아니다.",
+    "message": "데이비드 앨런",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_03",
+    "type": "QUOTE",
+    "title": "사소한 메모 하나가 위대한 발견의 씨앗이 된다.",
+    "message": "토머스 에디슨",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
   }
 ]
