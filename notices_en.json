@@ -1,10 +1,204 @@
 [
   {
     "id": "event_img_01",
-    "title": "New event Banner",
+    "type": "IMAGE",
+    "title": "21st Busan Fireworks Festival",
     "message": "",
-    "imageUrl": "https://changingwe.github.io/SoriMemo/images/banner_idea.jpg",
-    "linkUrl": "https://example.com/event",
-    "displayDurationSeconds": 20
+    "imageUrl": "https://changingwe.github.io/SoriMemo/images/busan_fire.jpg",
+    "linkUrl": "https://busanfireworks.com/",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2026-11-30T23:59:59",
+    "displayDurationSeconds": 12
+  },
+  {
+    "id": "event_img_02",
+    "type": "IMAGE",
+    "title": "Visit Busan Promotion",
+    "message": "",
+    "imageUrl": "https://changingwe.github.io/SoriMemo/images/visit_busan.png",
+    "linkUrl": "https://visitbusan.net",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 12
+  },
+  {
+    "id": "remote_quote_01",
+    "type": "QUOTE",
+    "title": "The palest ink is better than the best memory.",
+    "message": "Chinese Proverb",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_02",
+    "type": "QUOTE",
+    "title": "Your mind is for having ideas, not holding them.",
+    "message": "David Allen",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_03",
+    "type": "QUOTE",
+    "title": "Unrecorded thoughts will eventually evaporate.",
+    "message": "Takashi Tachibana",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_04",
+    "type": "QUOTE",
+    "title": "Survival of the fittest: only those who write survive.",
+    "message": "Korean Adage",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_05",
+    "type": "QUOTE",
+    "title": "Trust the written word over fragile memory.",
+    "message": "Umberto Eco",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_06",
+    "type": "QUOTE",
+    "title": "Clear your head to make room for new thoughts.",
+    "message": "Gary Keller",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_07",
+    "type": "QUOTE",
+    "title": "Capture thoughts instantly, or they will never return.",
+    "message": "Arthur Schopenhauer",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_08",
+    "type": "QUOTE",
+    "title": "Inspiration must be captured, not waited for.",
+    "message": "Jack London",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_09",
+    "type": "QUOTE",
+    "title": "A small note can become the seed of a great discovery.",
+    "message": "Thomas Edison",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_10",
+    "type": "QUOTE",
+    "title": "Instant capture, not perfect organizing, is the start of creativity.",
+    "message": "Tiago Forte",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_11",
+    "type": "QUOTE",
+    "title": "An idea not noted the moment it comes is gone forever.",
+    "message": "Mark Twain",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_12",
+    "type": "QUOTE",
+    "title": "Clear your mind so that new ideas may enter.",
+    "message": "Voltaire",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_13",
+    "type": "QUOTE",
+    "title": "Entrust your thoughts to your pen, not your memory.",
+    "message": "Leonardo da Vinci",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_14",
+    "type": "QUOTE",
+    "title": "Even a rough note can become the shoulders of a giant.",
+    "message": "Isaac Newton",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_15",
+    "type": "QUOTE",
+    "title": "Recording is the quickest key to recovering lost time.",
+    "message": "Benjamin Franklin",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_16",
+    "type": "QUOTE",
+    "title": "Brilliance of mind cannot match a dull brush tip.",
+    "message": "Jeong Yak-yong",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_17",
+    "type": "QUOTE",
+    "title": "Thoughts take real shape only when put on paper.",
+    "message": "Henri Poincaré",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_18",
+    "type": "QUOTE",
+    "title": "Spoken words fly away, written words remain.",
+    "message": "Latin Proverb",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_19",
+    "type": "QUOTE",
+    "title": "Inspiration is a guest; write it down before it leaves.",
+    "message": "Anton Chekhov",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_20",
+    "type": "QUOTE",
+    "title": "Unrecorded thoughts are nothing more than passing wind.",
+    "message": "Johann Wolfgang von Goethe",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
   }
 ]
