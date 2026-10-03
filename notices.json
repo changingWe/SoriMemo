@@ -7,7 +7,7 @@
     "imageUrl": "https://changingwe.github.io/SoriMemo/images/busan_fire.jpg",
     "linkUrl": "https://busanfireworks.com/",
     "startDate": "2026-01-01T00:00:00",
-    "endDate": "2026-11-31T23:59:59",
+    "endDate": "2026-11-30T23:59:59",
     "displayDurationSeconds": 12
   },
   {
@@ -42,8 +42,161 @@
   {
     "id": "remote_quote_03",
     "type": "QUOTE",
+    "title": "기록하지 않는 기억은 언젠가 반드시 증발한다.",
+    "message": "다치바나 다카시",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_04",
+    "type": "QUOTE",
+    "title": "적자생존: 적는 자만이 살아남는다.",
+    "message": "한국 격언",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_05",
+    "type": "QUOTE",
+    "title": "기억을 믿지 말고, 손과 입의 기록을 믿어라.",
+    "message": "에코",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_06",
+    "type": "QUOTE",
+    "title": "머릿속 생각을 털어낼 때 비로소 새 생각이 들어선다.",
+    "message": "게리 켈러",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_07",
+    "type": "QUOTE",
+    "title": "떠오른 생각을 즉시 붙잡지 않으면 다시는 오지 않는다.",
+    "message": "아서 쇼펜하우어",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_08",
+    "type": "QUOTE",
+    "title": "영감은 기다리는 것이 아니라 기록으로 붙잡는 것이다.",
+    "message": "잭 런던",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_09",
+    "type": "QUOTE",
     "title": "사소한 메모 하나가 위대한 발견의 씨앗이 된다.",
     "message": "토머스 에디슨",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_10",
+    "type": "QUOTE",
+    "title": "완벽한 정리가 아닌, 즉각적인 배출이 창의성의 시작이다.",
+    "message": "티아고 포르테",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_11",
+    "type": "QUOTE",
+    "title": "떠오른 순간 적지 않은 아이디어는 영원히 도망간다.",
+    "message": "마크 트웨인",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_12",
+    "type": "QUOTE",
+    "title": "뇌를 비워라. 그래야 새로운 생각이 채워진다.",
+    "message": "볼테르",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_13",
+    "type": "QUOTE",
+    "title": "머리로 기억하려 하지 말고 손끝에 맡겨라.",
+    "message": "레오나르도 다빈치",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_14",
+    "type": "QUOTE",
+    "title": "서툰 메모라도 남겨두면 나중에 거인의 어깨가 된다.",
+    "message": "아이작 뉴턴",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_15",
+    "type": "QUOTE",
+    "title": "기록은 잃어버린 시간을 가장 빠르게 되찾는 열쇠다.",
+    "message": "벤저민 프랭클린",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_16",
+    "type": "QUOTE",
+    "title": "총명함이 아무리 뛰어나도 둔한 붓끝 하나를 당하지 못한다.",
+    "message": "정약용",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_17",
+    "type": "QUOTE",
+    "title": "생각은 종이 위에 오르는 순간 비로소 형태를 갖춘다.",
+    "message": "앙리 푸앵카레",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_18",
+    "type": "QUOTE",
+    "title": "기억은 희미해지지만 기록된 단어는 영원히 남는다.",
+    "message": "라틴 격언",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_19",
+    "type": "QUOTE",
+    "title": "영감은 손님과 같아서 바로 적어두지 않으면 곧 떠나간다.",
+    "message": "체호프",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2030-12-31T23:59:59",
+    "displayDurationSeconds": 6
+  },
+  {
+    "id": "remote_quote_20",
+    "type": "QUOTE",
+    "title": "적어두지 않은 생각은 스쳐 지나가는 바람일 뿐이다.",
+    "message": "괴테",
     "startDate": "2026-01-01T00:00:00",
     "endDate": "2030-12-31T23:59:59",
     "displayDurationSeconds": 6
